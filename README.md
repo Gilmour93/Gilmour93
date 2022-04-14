@@ -6,8 +6,8 @@ Actions.
 
 <a href="https://github.com/rahul-jha98/github-stats-transparent">
 
-![](https://github.com/Gilmour93/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/Gilmour93/github-stats-transparent/blob/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/Gilmour93/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Gilmour93/github-stats-transparent/output/generated/languages.svg)
 
 <!--
 test
