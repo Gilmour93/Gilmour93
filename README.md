@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-# GitHub Stats Visualizations : Transparent
-> Generate visualizations of GitHub user and repository statistics using GitHub
-Actions.
+# GitHub Stats Visualizations
 
 <a href="https://github.com/rahul-jha98/github-stats-transparent">
 
